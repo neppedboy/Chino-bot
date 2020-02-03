@@ -1,0 +1,23 @@
+{
+  "name": "source",
+  "version": "1.0.0",
+  "description": "Kohai bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "DeitySenpai <deitysenpainio@gmail.com> vk(deitysenpai)",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "moment": "^2.24.0",
+    "ms": "^2.1.2"
+  },
+  "keywords": [
+    "discord.js",
+    "deitysenpai",
+    "discord bot",
+    "Kohai"
+  ],
+  "private": true
+}

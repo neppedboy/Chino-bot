@@ -1,0 +1,1 @@
+module.exports.run = () => console.log(`Client start`);
